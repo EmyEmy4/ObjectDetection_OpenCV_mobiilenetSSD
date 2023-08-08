@@ -1,1 +1,1 @@
-# ObjectDetection_OpenCV_mobiilenetSSD
+# ObjectDetection_OpenCV_mobilenetSSD
